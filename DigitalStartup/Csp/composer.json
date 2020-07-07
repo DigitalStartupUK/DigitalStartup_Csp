@@ -1,0 +1,21 @@
+{
+    "name": "digitalstartup/module-csp",
+    "description": "Content Security Policies Whitelist Module for Magento 2.3.5 and above",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "DigitalStartup"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DigitalStartup\\Csp\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
