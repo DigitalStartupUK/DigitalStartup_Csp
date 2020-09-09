@@ -6,14 +6,14 @@
                 <value id="cloudflare" type="host">*.cloudflare.com</value>
                 <value id="twitter.com" type="host">*.twitter.com</value>
                 <value id="google-analytics" type="host">*.google-analytics.com</value>
-				<value id="googletagmanager.com" type="host">googletagmanager.com</value>
+                <value id="googletagmanager.com" type="host">googletagmanager.com</value>
                 <value id="google" type="host">*.google.com</value>
                 <value id="gstatic" type="host">*.gstatic.com</value>
                 <value id="trustedshops" type="host">*.trustedshops.com</value>
                 <value id="fontawesome" type="host">*.fontawesome.com</value>
                 <value id="addthis.com" type="host">*.addthis.com</value>
-				<value id="s7.addthis.com" type="host">s7.addthis.com</value>
-				<value id="m.addthis.com" type="host">m.addthis.com</value>
+                <value id="s7.addthis.com" type="host">s7.addthis.com</value>
+                <value id="m.addthis.com" type="host">m.addthis.com</value>
                 <value id="addthis-analytics" type="host">z.moatads.com</value>
                 <value id="addthis-cdn" type="host">*.addthisedge.com</value>
                 <value id="googleapis" type="host">apis.google.com</value>

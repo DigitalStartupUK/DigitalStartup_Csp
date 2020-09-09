@@ -5,11 +5,11 @@
             <mode>
                 <storefront>
                     <report_uri></report_uri>
-					<report_only>0</report_only>
+                    <report_only>0</report_only>
                 </storefront>
                 <admin>
                     <report_uri></report_uri>
-					<report_only>0</report_only>
+                    <report_only>0</report_only>
                 </admin>
             </mode>
         </csp>
