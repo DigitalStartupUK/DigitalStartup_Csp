@@ -6,6 +6,9 @@
                 <storefront>
                     <report_uri></report_uri>
                     <report_only>1</report_only>
+                    <frame-ancestors>
+                        <inline>0</inline>
+                    </frame-ancestors>
                 </storefront>
                 <admin>
                     <report_uri></report_uri>
