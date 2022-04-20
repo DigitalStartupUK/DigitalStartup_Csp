@@ -1,5 +1,5 @@
 # DigitalStartup_Csp
-Content Security Policy Whitelist Module for Magento 2.3.5+. As described in the [Official Magento Documentation](https://devdocs.magento.com/guides/v2.3/extension-dev-guide/security/content-security-policies.html#report-uri-configuration).
+Content Security Policy Whitelist Module for Magento 2.4.4. As described in the [Official Magento Documentation](https://devdocs.magento.com/guides/v2.3/extension-dev-guide/security/content-security-policies.html#report-uri-configuration).
 
 ## Before you use this module
 * This project is not kept up-to-date and may contain mistakes. Treat this as a learning tool.
