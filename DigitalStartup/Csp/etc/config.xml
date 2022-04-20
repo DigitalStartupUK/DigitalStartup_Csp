@@ -1,20 +1,15 @@
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
     <default>
         <csp>
-            <mode>
+            <policies>
                 <storefront>
-                    <report_uri></report_uri>
-                    <report_only>1</report_only>
                     <frame-ancestors>
                         <inline>0</inline>
                     </frame-ancestors>
                 </storefront>
-                <admin>
-                    <report_uri></report_uri>
-                    <report_only>1</report_only>
-                </admin>
-            </mode>
+            </policies>
         </csp>
     </default>
 </config>
